@@ -47,7 +47,7 @@ Things to do do make this sample more complete:
 
 ## Screenshots
 
-<img src="/Screenshots/Products.png" />
+<img src="/Screenshots/Products.png" /> 
 <img src="/Screenshots/Products2.png" />
 <img src="/Screenshots/Product.png" />
 <img src="/Screenshots/Basket.png" />
